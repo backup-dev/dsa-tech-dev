@@ -20,7 +20,7 @@ public class PrintOccurenceSum {
 
   public static void main(String[] args) {
     ArrayList<Integer> arr = new ArrayList<>();
-    int[] a = new int[] { 1, 2, 1 };
+    int[] a = new int[] {3,1,2};
     firstSum(a, 0, arr, 0, 2, 3);
   }
 }
